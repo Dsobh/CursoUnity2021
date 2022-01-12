@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12f7f774ed8f9a349852958851a86479, type: 3}
+  m_Name: Placaje
+  m_EditorClassIdentifier: 
+  name: Placaje
+  description: Rugby power
+  type: 1
+  power: 40
+  accuracy: 100
+  pp: 1
+  moveType: 0
+  effects:
+    boostings: []
+  target: 1

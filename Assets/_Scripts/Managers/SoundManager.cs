@@ -1,0 +1,57 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SoundManager : MonoBehaviour
+{
+    [SerializeField] AudioSource effectsSource, musicSource;
+    [SerializeField] private AudioClip[] charactersSounds;
+
+    public Vector2 pitchRange = Vector2.zero;
+
+    public static SoundManager SharedInstance; //Singleton
+
+    private void Awake() //Singleton
+    {
+        if(SharedInstance != null)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            SharedInstance = this;
+        }
+
+        DontDestroyOnLoad(gameObject);
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        effectsSource.pitch = 1;
+        effectsSource.Stop(); //Pausar antes de reproducir
+        effectsSource.clip = clip;
+        effectsSource.Play();
+    }
+
+    public void PlayMusic(AudioClip clip)
+    {
+        musicSource.Stop(); //Pausar antes de reproducir
+        musicSource.clip = clip;
+        musicSource.Play();
+    }
+
+    public void PlayRandomCharacterSound()
+    {
+        RandomSoundEffectt(charactersSounds);
+    }
+
+    //Params establece que los parametros se pasan por referencia y así no copiamos el clip que suele ser mas pesado
+    private void RandomSoundEffectt(params AudioClip[] clips)
+    {
+        int index = Random.Range(0, clips.Length);
+        float pitch = Random.Range(pitchRange.x, pitchRange.y);
+
+        effectsSource.pitch = pitch;
+        PlaySound(clips[index]);
+    }
+}

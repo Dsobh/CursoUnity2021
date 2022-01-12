@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f748786f943105c42b4e336d4da3e27f, type: 3}
+  m_Name: Mariposei
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Mariposei
+  description: Bichajo venenoso
+  frontSrpite: {fileID: 21300000, guid: 2e8511a9df8ba7843822abe1ee728fd8, type: 3}
+  backSrpite: {fileID: 21300000, guid: 2ae980ba236d34b4db7d97db90985607, type: 3}
+  type1: 12
+  type2: 8
+  catchRate: 45
+  maxHP: 40
+  attack: 45
+  defense: 35
+  spAttack: 70
+  spDefense: 65
+  speed: 55
+  expBase: 400
+  _growthRate: 3
+  learnableMoves:
+  - move: {fileID: 11400000, guid: a24586ecd5ff0a74381f9c36552ffbb5, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 60f6eb04af8e1aa4da3318a47d1b3a23, type: 2}
+    level: 5
+  - move: {fileID: 11400000, guid: dcca35f3b7472f140b29a6b3dda3d6ea, type: 2}
+    level: 7
+  - move: {fileID: 11400000, guid: 5244165ceaeb01541b0d8ce398a1d99b, type: 2}
+    level: 8

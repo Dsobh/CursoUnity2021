@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f748786f943105c42b4e336d4da3e27f, type: 3}
+  m_Name: Hielito
+  m_EditorClassIdentifier: 
+  id: 80
+  name: Hielito
+  description: Renacuajo
+  frontSrpite: {fileID: 21300000, guid: 3aca01608586f284e8d0e219881ef2f5, type: 3}
+  backSrpite: {fileID: 21300000, guid: 8254a2c7a882c7f4ebefdeda5061961f, type: 3}
+  type1: 6
+  type2: 18
+  catchRate: 45
+  maxHP: 50
+  attack: 70
+  defense: 50
+  spAttack: 40
+  spDefense: 50
+  speed: 50
+  expBase: 400
+  _growthRate: 3
+  learnableMoves:
+  - move: {fileID: 11400000, guid: a24586ecd5ff0a74381f9c36552ffbb5, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 02fcdc7e782031c4991126e8562ef3c7, type: 2}
+    level: 5
+  - move: {fileID: 11400000, guid: 60f6eb04af8e1aa4da3318a47d1b3a23, type: 2}
+    level: 7
+  - move: {fileID: 11400000, guid: 23dc6f5133607b742bcbe62411971e21, type: 2}
+    level: 7
