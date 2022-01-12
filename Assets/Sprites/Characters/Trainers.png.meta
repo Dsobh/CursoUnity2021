@@ -1,0 +1,7052 @@
+fileFormatVersion: 2
+guid: 6a2307ca1ffa43a45897fe774631dd5b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trainers_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1441
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a709a7c2f76246b5da9a7e478fd26
+      internalID: 153932976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1441
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5488ada42595121419ecac3561f480af
+      internalID: -1866802696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1441
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a65c19ae45c3479e62672156c65d9
+      internalID: -1471171573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1442
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9a6d7d16da594ebe547007e942e85
+      internalID: 1410232086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1498
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7a1d0c733fca478a736ad19720db4
+      internalID: -191613007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1441
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45690249dff5f924c952e7767fc48d4a
+      internalID: 2029720402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1440
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7b8ef28e19cc48b567834777e6df7
+      internalID: -200201971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1441
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a7cc3bc410054d8d528842a8a7b77
+      internalID: -723570835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_8
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1441
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df719fca7c40e224ba1d204e4565a0b1
+      internalID: 1378074397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1441
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad850c2d6764f4aaa6e05aa5a77850
+      internalID: -516631297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_10
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1441
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959489f37c0ae14e89199bfa96f0737
+      internalID: 1399360994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1441
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc75543ae84a74dacc44f1c21cdca6
+      internalID: 2016933050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1442
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a6d7475260e4a4ea14be235a1196e4
+      internalID: 555220865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1440
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41f5c63369ee6408530c5d33621546
+      internalID: -1997479261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1441
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651bd11e6889fe4081239b75352c8e8
+      internalID: 1362716234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1441
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8229d76f47ea7247a3d7f308160160c
+      internalID: 1226463854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65515ba13350cd648aed4a8c47db44dd
+      internalID: 696148697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1441
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fec292cb045b849a0b9559067e11bf
+      internalID: -1552546618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1361
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321155ccd563a4f4bba2892c1d0f3eed
+      internalID: -460636028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1361
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f68ea883adcec94a938a47a5c729df8
+      internalID: 704849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1361
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02bf335e736f241a3fd17ca09de6ab
+      internalID: 1732278084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_21
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1361
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170eddf9a879c994c8a9ed2aebd4df19
+      internalID: -530977115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1361
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1aa32ef5d38d9418a2ec2cce664801
+      internalID: 63757024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1361
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fd15b048d02b4e803c1239d092ca8
+      internalID: -1765915078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_24
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1361
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf09ab23de94d4697129e941b1b748
+      internalID: 2052837422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1361
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75b287fcc0840458632e155b00196d
+      internalID: 359222063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_26
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1361
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1c38d4077d87408a9a3421df1244d
+      internalID: -768800036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_27
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1427
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0849431e130344292bc731cd6fd37f
+      internalID: -1684469983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_28
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1361
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5703214cfb915429fc4aa142d2443b
+      internalID: 2126807220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_29
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1361
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc593e93721099740a99277236feeb31
+      internalID: -324043221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1361
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6779a3a509fb4ebacad17f06d1457
+      internalID: 1033913570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea3dfb26631fd4aa53a4f1f8ac25db
+      internalID: 417389056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b74ce6995114814380a4fb795e60f46
+      internalID: 863287720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1362
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a63395d53b3e54f8e1ae393e0fc4d1
+      internalID: -888728475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1361
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04773c2fec65dde48906c12a28519bb9
+      internalID: -273791916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1363
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b324e94dc4424c83dd64cde733fcc
+      internalID: -1416659518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_36
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1361
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259616147ff9de84a8672ddb56c592f7
+      internalID: -105555342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_37
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1361
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65df093b837914bb84a3a8a7a5859d
+      internalID: -31252634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721ee22378056e45b83076701be887c
+      internalID: 2114127137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1281
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf653f1bddfa3a44aad3966b48fcb47
+      internalID: 554597877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1281
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f645f3ec6820d90449b600e01f0734be
+      internalID: 460726144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1281
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a36ff0a73329a40be777673edda407
+      internalID: -586966522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_42
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1281
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ceb00a4a35264a9a755ae7b6c5e2a
+      internalID: 683319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1281
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1260e7fdcb25418e866558abd098e
+      internalID: 1623315022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1280
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d5f18e03f1a64fab450b27b9454cb
+      internalID: 671452781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1281
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8822464764de15c4f84d226a948349da
+      internalID: -284993460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1317
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b767792dd6d4e46885f50d289c5843
+      internalID: 1923661528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1281
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b75badad60af743a1c98c9a5775770
+      internalID: -796169416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1281
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcfea53169e24041b8e34ae81b9bdfe
+      internalID: 1060356877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_49
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1281
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ad1a558e4dff46ac72bfb4ac9fe01
+      internalID: -1048706661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1281
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34395b5949cbb24a92eb59679f16626
+      internalID: 1388557938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_51
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1281
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93559f4ead4d10a4aa53d29f3d340b0d
+      internalID: 2106872470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_52
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1281
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5be8debbc1b694ba262d79e362d286
+      internalID: -1679018014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_53
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1281
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a4da1787cfc1c47997f386b2c3dab8
+      internalID: -418579040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_54
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1281
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef12f823e17a104692f6d57be3ca0e2
+      internalID: 1066392718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_55
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1281
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3805c78411b54f8872ce2561adee3
+      internalID: 1964305191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1263
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7778aa6c0db7fc04e8af0a2eb6018146
+      internalID: -1638804554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1273
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e63cd53dcde44aa3b2e728e21d752
+      internalID: 687793989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1265
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60727f78284b0b746843f7221ca78e29
+      internalID: -1066766125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1201
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d679cece150148a489a7eda473ee3
+      internalID: -1428237610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_60
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1201
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61efcb40ec62b9248aa2ce32c97688c3
+      internalID: 1015351108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_61
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1201
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c3f0f6db01f6429127382722fda14
+      internalID: -216522294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_62
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1201
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b154d1d5f62fb2b428c81585ab1a6972
+      internalID: 301057392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_63
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1201
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c2e5c7aea9884a97558174a1cb110
+      internalID: -1164510459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1202
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26a9cdc25aa0f41804c18d3b6a3953
+      internalID: -1782661912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_65
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9afd4fe3b96945b2b60c3a2ee1d87
+      internalID: -803271669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1201
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f2545289b7ca448f7459c2b2dec94
+      internalID: 1702758852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1201
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3296eb356dd34eb3632e3c6503af2
+      internalID: 1321603883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_68
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1201
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d7cf890376b449b4e3b574aba601c
+      internalID: 609679416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1201
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035a275df618494a92e9e1afbea06bd
+      internalID: 735436694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_70
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1201
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cdd726e87f136438bc309ff554729a
+      internalID: 298596288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_71
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1201
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e9eaa603f52f4a8ce0b864311b1e4
+      internalID: 1519704363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_72
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1201
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d708dbd4176f744a1d8e652e5670ab
+      internalID: -2075706550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_73
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1201
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88faca2d8cdca47478e8146f53ece8ad
+      internalID: 2050988366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_74
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1201
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43b0c1896293a4aa2c72c9ce5859e0
+      internalID: 2074490891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_75
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1201
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a856cc1b2bb244dbcf8cb580469b54
+      internalID: 1229422853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1120
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b54a5d8d973f47ba17f9c23089432
+      internalID: -1020591151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1121
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7dd4caa5f30c4ea8cc5604bfeda64
+      internalID: 1445488267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1122
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877ac94f0ab1fc740b697951968d044a
+      internalID: -1891381087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_79
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1121
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a68cfe0a23aef48b1150d96baaaf7c
+      internalID: 672706985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1121
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20125ba4a7ee7e246808869b6494e045
+      internalID: 1253669224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_81
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1120
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd722020de95d6445959c2eb04147d8c
+      internalID: -1451309037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1121
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c52f5aa8a8f964082e8fe42205bb7b
+      internalID: -2073988513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_83
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1121
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0269ac6da1974c875ed26927ba592
+      internalID: 1170787332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_84
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1121
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50bd91c139fdf74f94c386d3a4d0242
+      internalID: 1379774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_85
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1121
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582ba45e06859546b5d95777029bc8d
+      internalID: -719317594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_86
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1121
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1c13296408ec4cb36f7f1fa046d02
+      internalID: 880471192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_87
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1120
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bddeb27543f44e970fa569867edc7
+      internalID: -1501256661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_88
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1121
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead561095f8405458f9b15098a11c73
+      internalID: -1155047092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_89
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1120
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d965cb50c3f81f545a0cafa0279770a5
+      internalID: -711572954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_90
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1121
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07c439fbbde9a4c886e936c828d5fc
+      internalID: -1082663462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_91
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1121
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dbfddf7a2e4f747a3b1c343ebf756f
+      internalID: -1465174676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1041
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaac6f0cea641245a0809007fab5f69
+      internalID: -1211342783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1041
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ec5b3839c8e7499db1fd334bbe83a
+      internalID: -1259915531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_94
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1041
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0624882ac2ba4eb3f61a6f072f77e
+      internalID: -2030229813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1042
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434762cb7af7ff4da3cc8ded3a7fd54
+      internalID: -268019817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1041
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4d88dd60af4dd41ad90214b8d83ed5
+      internalID: 1529792008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_97
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1041
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e925e885542340af6c9bcb11d9e91
+      internalID: -170660919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_98
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1040
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ad673f6c466c4daf7a10bde67638d
+      internalID: -1852197853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1041
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72bdb6957ba23f4eaded91289c82ea2
+      internalID: 1751416617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_100
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1041
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9ae89cd007784a8720c72fc40b32e
+      internalID: 104258477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_101
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1041
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec73f886c58e94b83d2380c9d86717
+      internalID: 273602767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_102
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1040
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7f2e1866f28e46a633f6ac5139d9e
+      internalID: 1844181086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_103
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1040
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51440559841ff4aa824c9029e1c382
+      internalID: -151783744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_104
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1042
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c08cd04a3b284787ead72bfcabe5d
+      internalID: 680612897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_105
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1042
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659bada4ffd7224390088da7997dce0
+      internalID: 1726867527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_106
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1040
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174ebbbf8e05204cbf0f6593931b073
+      internalID: -985290192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_107
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1042
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6552068c99f0efd449e9f66a43995ec4
+      internalID: 2055232375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 960
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7a8a5fd941014a99ef43b18730673
+      internalID: -1526503357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 960
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5032f68de6f042bde1b456d2f087a
+      internalID: -1449765035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_110
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 960
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11007f671ba8f9c4fa4120d62797716a
+      internalID: 1931734213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_111
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 965
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbeb8db29109174eab06763f20f8ce5
+      internalID: 1750492199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_112
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 966
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362d9b96e1f3ed4d9977a3df9bd56f6
+      internalID: -822732563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_113
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 962
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94dbe16d0c6a314bbc7ee4cd7a0eeb1
+      internalID: -1973750749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_114
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 962
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1db7a2718a3c4469672b97c3e89c0f
+      internalID: -1274206666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_115
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 961
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972c39ebef5fd64fa1210d907a93b7f
+      internalID: 2025206783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_116
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1028
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08331fc089b41ab46832ee0e101c1c4b
+      internalID: 300828583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_117
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 960
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec52e78bdd12944da5d38cf14f3527c
+      internalID: -1928744024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_118
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 961
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458943b50a3df5f4cb72e6e0eb796e40
+      internalID: 1080986806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_119
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 961
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f36bc5f4923244ebe6e3208b2d9bc0
+      internalID: 1445139285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_120
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 965
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e86d1857803e34496983cdc8abb293
+      internalID: 874960537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_121
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 962
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7dc51c9bf65e438c4a8a2e41784fe
+      internalID: 1542393754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 962
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051827ef07965042a71c8d13b0dcfec
+      internalID: 1547360936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_123
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 963
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc138037b1286d41ab7d17fc0bff7e0
+      internalID: -1098016652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_124
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 971
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c628e61105725d45b4418ba17e66349
+      internalID: -1649869297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_125
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 883
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c40b56ac54094ebc9b8e468e58146
+      internalID: 823021100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 932
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1ed5a404466c4989fc50839b50122
+      internalID: 864281203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 884
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faed12fb6ba7824a94ff894a9a0bbd7
+      internalID: -2122278319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_128
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 882
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838db99e5ed84b46aa0cb39727bab93
+      internalID: -316243752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_129
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 881
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b8a9ffa7738c47b39b81de90337e4
+      internalID: -1834547113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_130
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 881
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc6a9e923b0ba4abd4a4db99bd33db
+      internalID: -1280810602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_131
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 881
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec970a2e58893e54b952b34315901e03
+      internalID: -268342387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_132
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 883
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36dc831fb804a45a3e83b5c932a763
+      internalID: 1941528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_133
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 882
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d85c8168104a44b90c417bbb35deb0
+      internalID: -2068936108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_134
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 888
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd84a1d418b5e47a75175be49e062b
+      internalID: 1372651067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_135
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 885
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a18be35458b140bddb230c21712d0
+      internalID: -1418205275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_136
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 890
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720b129333dd514486713a0bf9da2d1
+      internalID: -1346773206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_137
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 881
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b308637969a8cb468264b87d2e66ad9
+      internalID: -1509943477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_138
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 882
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6b2b2282b06e4bad865a3aa298fcd
+      internalID: -849749639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_139
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 881
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b871cfa7059f7744b89a30a13d5a42a
+      internalID: 114980098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_140
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 882
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65197d6943527408d4e51c1454155f
+      internalID: -1336427919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_141
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 881
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f8f3e951055e40a62e2b451ff042c
+      internalID: -1998894173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_142
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 882
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f061cbae30bb9140be029031352b5e0
+      internalID: -369016814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 922
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d7923eaf964b24db52998ca18e6f01
+      internalID: -983892207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_144
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 887
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6158f21e9b1cf94f9131a05deb957fd
+      internalID: 2136911395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 908
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fa321ae6ebd24a8dfa098e0411141
+      internalID: -1254059644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_146
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 911
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157c719e70080c4da3d9187eb789be7
+      internalID: -2096317651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_147
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 894
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5739782a7cb7c1f42acd973288e3a698
+      internalID: -1897084828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_148
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 881
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f0f53457949c438e88d2cf9f7f5e2
+      internalID: 1831567558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 811
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26c2ae55f5ef1441833c9036f4c8637
+      internalID: -2128741512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_150
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 806
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e11005da2c8c041b309fabc09425cf
+      internalID: -64893778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_151
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 804
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e21ace640a7ef44ac16c4202d997e3
+      internalID: -293469531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_152
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 800
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f96f40ea4e61a4a920450daeb353cf
+      internalID: -1243905352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 800
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d4335b7ada3bc40b0c42b225c2bac9
+      internalID: 1330836355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_154
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 801
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37909bbfe53f64446b438f391931bd85
+      internalID: -55108746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_155
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 802
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a59e5d612f114541a9b7d1ee33603be
+      internalID: 1412036607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 801
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037216cc184949f44a541cafbc27a4da
+      internalID: 1179017998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_157
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 802
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e458fdb4970f43947de812d3659a0
+      internalID: -443563279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_158
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 803
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464da3bc7635494eb5a9c205bddf9f3
+      internalID: -1955739029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_159
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 802
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37262845a7d24c44ba2bff59550d88b5
+      internalID: 717760431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_160
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 804
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f9815690575149b79a36fa2a67df7
+      internalID: -150562529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_161
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 810
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09bbb62787d034689b82b5a96c37b2
+      internalID: 1581144769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_162
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 802
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1ea92762545e4a82817b6ffee4f1a
+      internalID: 1394597616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_163
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 806
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897ee512f934e845b5a96808b8f05af
+      internalID: -283746979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_164
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 800
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c3a512b9fbb8479ae4d82dc1aad2a
+      internalID: -1882710611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 721
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ced77d3e7889849b9dc5328e0fe56a
+      internalID: 1884767617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_166
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 721
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085fbecb54ccd934f92c36687722f82f
+      internalID: 1226611441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_167
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 721
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72664b61e745dc34891522298ad66a2f
+      internalID: -781468755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_168
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 721
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5700dc75e0a484280645641af4f266
+      internalID: 874489679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_169
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 722
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51929ad6901a104b9488a834c9f20c0
+      internalID: 710178577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_170
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 728
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf5894059a61e44bc283b705ad1f4f
+      internalID: -1432484647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_171
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 725
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a5280d6850924e86249141d966d5b
+      internalID: -1793393379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_172
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 720
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08135cf3988e19e4595f261ddf856b42
+      internalID: -499412707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_173
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 722
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078551356b29c47469d91eb54f813d4c
+      internalID: -2097571060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_174
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 735
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bf842ebf335e4c8a6d017c35f5b29
+      internalID: -1377234537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_175
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 723
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610131b3bfeb26946a7ce2ab60bdcfbb
+      internalID: -1137986979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_176
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 720
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad2b1be89f83d4a84a2c66faf6f461
+      internalID: 1209379107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_177
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 721
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d0b1932815464d8672d2082a6f3ef
+      internalID: -1097766373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_178
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 726
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0104e94a592ea41adcb7e10f29bd6e
+      internalID: -269880140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_179
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 721
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129139bd746ee214d96fc76cea03a9a0
+      internalID: -187529251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_180
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 720
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe4a2618e35fc44b6c99b686dedcab
+      internalID: -1738701815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_181
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 641
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83bd2ac01d8f054ca720e3dbd045a1f
+      internalID: 2089235304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_182
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 643
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c559a06e1bc25a42999437b0a71cd91
+      internalID: 388853177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_183
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 643
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac692fdf00f3741a33da8653c84340
+      internalID: 693095423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_184
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 642
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04388a214cf18a4386f625d96ec6aa2
+      internalID: 1055137409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_185
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 640
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad356a55c6f8018418080a2bdbfdd117
+      internalID: -1166664570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_186
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 642
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7302b3590b43834eaf8264c8d9a5a6d
+      internalID: -780775756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 642
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172021d3b4888044eb832ddcd8566ffc
+      internalID: -2037381171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_188
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 642
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86a4c5d6ba92f429ce6cc837a7ba07
+      internalID: -197783972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_189
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 641
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66d9b05b8e37a4b8e12f43ed86536a
+      internalID: -154932907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_190
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 641
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20215d252c4264992244de21193e6f
+      internalID: 227167274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_191
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 641
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5bc735b2c8d545bcd49d2601a5053
+      internalID: 50174269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_192
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 641
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face847f3de20364a9ebc25d3ec4d4f9
+      internalID: -1295258751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_193
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 641
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25775651f836941a8ff1f4133158bb
+      internalID: 998561668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_194
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 641
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b79e01281a384f9968ffae1ac8d4e
+      internalID: -1898668319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_195
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 641
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9679d911c56a4cba7f62ad0efdeba
+      internalID: 2013775245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_196
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 641
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825be54bbc52f5b4caafb999a915c711
+      internalID: 1149201749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_197
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 561
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4b85a381fd564aa08bbe661a4de5a
+      internalID: 2106889943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_198
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 560
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4701891fc42cea40956f36bebf63ad2
+      internalID: 1419531611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_199
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 561
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70c44912dbce41479c9ef7e2413945c
+      internalID: 1968467413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_200
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 561
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad54b7869ff5c419ffcc31003b4a5e
+      internalID: 254750148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_201
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 561
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc13774ae4f5d4ab1fd6007de7005a
+      internalID: 1315426533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_202
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 561
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fad82a9da9dc1419b459f3cf53d0ef
+      internalID: 114434205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_203
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 560
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebc97eb6a8cc14cb4837ffddfb4b47
+      internalID: 735679477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_204
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 560
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67eb1e0aef0c5a478eae54de69cc82d
+      internalID: 458713568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_205
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 561
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d13ef55633b2428b67110a85283c7
+      internalID: 1278181680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_206
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 561
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be15d0556459c2499226fe583209201
+      internalID: 1150419836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_207
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 560
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421752bbbf1bda94c9276e24b356c154
+      internalID: -893212984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_208
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 561
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd526765575e1a4aa52eea6f29bfae0
+      internalID: 308358496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_209
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 560
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f9040d611e1e4fb95ef66005f67b2
+      internalID: 1649257424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_210
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 562
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baddf5863cc90d64987227684c8718a3
+      internalID: 711705013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_211
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 561
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a408c07e6867e4ebd45cfa5bd34f9c
+      internalID: -155319029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_212
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 560
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f989f7bc17d49b4c98d7a9cd4336c56
+      internalID: -1060620475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_213
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 481
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ace8514ad04a44587047dc72a55817
+      internalID: 1237087681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_214
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c955e9da40f44b85e29bdee6e4bfc
+      internalID: -659098240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 481
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8795647e15e1749a8331e168ad524c
+      internalID: -275142333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_216
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 480
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be52366756357a42bfbfc48b23da198
+      internalID: 180843643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_217
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 480
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e114874a02074ebd65050278c3af1
+      internalID: -509986200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_218
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 481
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca31b706fc79ba4d96cc0067d654f01
+      internalID: 236923307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_219
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 481
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d578c2e263f3e742a23b303c23506d8
+      internalID: -1245840412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_220
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 480
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9ca41ddb523741b4623f4ff61a6ed
+      internalID: -753769764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_221
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 481
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0de699b117de24589f1fad19858687
+      internalID: 2007513391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_222
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 480
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3f80733eb57f45aecff5219689bca
+      internalID: 1862684485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_223
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 480
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba830e680765cd4d9e3a8fdadbeec39
+      internalID: -2086132116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_224
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 481
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ed7897f26a734685e26d1b98f26a6
+      internalID: 580555713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_225
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 481
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5f2e3d65b7b04da5f020751acf6b9
+      internalID: 1358133493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_226
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 481
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6327c88061fbb2740a53536062077805
+      internalID: -148685522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_227
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 481
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887b661d1dd656439a6b2dd90d39c4e
+      internalID: 527140957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_228
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 481
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a603ced5981934147b5b51a730051656
+      internalID: 1076221691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_229
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 400
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df27e54db90464cbe831f8e645564e
+      internalID: -1044900605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_230
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 401
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9003193b1dece4b9faf3e7bb7aaed7
+      internalID: 1972861041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_231
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 401
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdac3cf059617946913264de55b05a5
+      internalID: -921910157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_232
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 400
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277a45a9b315c448884e1b0afcbc4fc
+      internalID: 2130768213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_233
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 401
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879eb5575955b184db1f1e46634e741c
+      internalID: 416906290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_234
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 401
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572e16ef13ac324e99fbce2616b6252
+      internalID: -1582665353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_235
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 400
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1ab9e06e73db448413a5e3f08ff29
+      internalID: -1973138206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_236
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 400
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe854bc60c91a7488303e7fa0d4d9f7
+      internalID: 1996228168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_237
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 401
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade8362965a05d4d8f4de0243b1eab6
+      internalID: -633716483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_238
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 400
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ab8912d86dd34f902256f519be759
+      internalID: -1202052381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_239
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 400
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162df8754dcac748ba5efd8aed386d5
+      internalID: 780812287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_240
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 401
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e117ddb11c10641837c92e689e3a63
+      internalID: -1615087229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_241
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 400
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57603edac35748c40a2c68aa76386ff3
+      internalID: -1947893294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_242
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 401
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb4f86ab94a164a887fb762222174b
+      internalID: 808456126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_243
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 401
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34efb20c7080b645bea6e0bf9f479f3
+      internalID: -342499467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_244
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 401
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80046d03c03a3c4cba25c0c0babf309
+      internalID: -1597878212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_245
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 400
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d1a932d213b44d9ac52e25025473c
+      internalID: 685359976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_246
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b722ad0891556e42b00534db967479f
+      internalID: -1992322982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_247
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 321
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e05d51a7c4124d8d93ee10f404be0
+      internalID: 652873967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_248
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 320
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad05421c66c49409aa5329d1449be5
+      internalID: 71002872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_249
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee630bdbec8a474f98ac3968ebe4e12
+      internalID: 1920549547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_250
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 321
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a364a44976231340b56245a04a883ca
+      internalID: -992917845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_251
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 321
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4cb775fdb7424b9982b82751de257
+      internalID: -736401403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_252
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f15bee775fa8a4e9e9791bb505f230
+      internalID: 1898715013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_253
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 321
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289fc74e94298c4686b2e8664eb62e4
+      internalID: 2012401604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_254
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 320
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adc4ed942da8947b2ab0f885e241a4
+      internalID: -892161483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_255
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 321
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7d082c7a0cdab4dae32714692efb79
+      internalID: 1652542714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_256
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 321
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07623f89e92443d4d987521754f3d1a6
+      internalID: 636117386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_257
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 321
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb9a6bb7c6a95c4089d089a01e3dfdf
+      internalID: 682337930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_258
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 320
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaab0293f5b4024cb54cccce347e37b
+      internalID: 936463307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_259
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 320
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b3617d2c6b384bb8afff1700ff5de
+      internalID: 547009392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_260
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 320
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e744ce4ff45b4f829fdc052906a86
+      internalID: -1466370046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_261
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 321
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d88c3e5b8dfd4a955af2d11b0f59b
+      internalID: 285789304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_262
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847a6158ff828748b2c538f227c4d26
+      internalID: 1490915967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_263
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 241
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615a995db000e5e479faf0277f215ac5
+      internalID: 775439289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_264
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 240
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9818b12ddc20044bb06eb8f12ddf92
+      internalID: 2133570207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_265
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e417f023d626b7409cc0ea8d72e773f
+      internalID: -259270213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_266
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 241
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0defae87ce79f34f86744318e739b9c
+      internalID: 1573804183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_267
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 241
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba9e98f77428d418db4e0df43fddf1
+      internalID: 795875437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_268
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 240
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d712e689a79874b898c76a44aacd6c
+      internalID: 1759697044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_269
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 240
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5574c141f77b0734aa3f5e5c4b619a94
+      internalID: -789558280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_270
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 241
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413427789e0c66d4db9a990ea3407436
+      internalID: 762384542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_271
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 240
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fcbb1641c4a6b4bb9cf3c315054a00
+      internalID: -148025125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_272
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 240
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d1e99a73e2fa4ebeae51285fa36fd
+      internalID: -1698718920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_273
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 242
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a44e891adc8da42be7bffb886054e3
+      internalID: 1520673580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_274
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 241
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69650245b183c4141b2b20fa8928e6f6
+      internalID: -456408920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_275
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 240
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b4294929b7a7d40bfa4f6292dc90c1
+      internalID: 1753228214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_276
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 240
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3811d3752c28b04698db5ce0a53bab4
+      internalID: -1859918585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_277
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 240
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f95df8e05e4684683b6feed80a7d17
+      internalID: 74788608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_278
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3985b90666df24baabba6b28151924
+      internalID: -1196370475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_279
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50e86c771162249a7fccd2cba38971
+      internalID: 926416393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_280
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 161
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e04fa29ba633234dae135506b433e6c
+      internalID: 419377905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_281
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e8f94631dd914aacee8b203c9e64b
+      internalID: -1836090005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_282
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 160
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30ec1360565374abadf6a6876d752a
+      internalID: -664122743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_283
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 161
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a7e510eff02e4291a8272b9e0759c
+      internalID: 274566744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_284
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 161
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a2e439289df4458ac2c895ddcda4f
+      internalID: 1634360790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_285
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 166
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f911a7f20f936498a54eb430dc6c47
+      internalID: -1921496939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_286
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 165
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12287953d4054f40bf12783e464ce81
+      internalID: 21478487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_287
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 165
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290062f9bf9c0334aacd4c1cb718d758
+      internalID: 2140663536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_288
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 160
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72625addde2d0694c8cd46451c151d65
+      internalID: -1317890517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_289
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 161
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bffde21a0a8224d91e87b4372616b0
+      internalID: -1804676490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_290
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 160
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed750a23bc2de468dd5cf6242e05a5
+      internalID: 1011295806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_291
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 163
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2008f7914bb9f43abc72b7cb4c8da9
+      internalID: 1328597867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_292
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 173
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59648a5aaede343a8c1e4982c72b25
+      internalID: -393455263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_293
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 163
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d388e74e373244899d16687673758
+      internalID: 302434505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0ca064e984f947b758e486b357ae5
+      internalID: -1122243355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_295
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 82
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72b1b58f9c6bd45a9d88e8734c115b
+      internalID: 1129533469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_296
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b99823e4722e4c9b0fc8720b638e5
+      internalID: -1798993170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_297
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2f3f19bc06374bba5bd88e796304d
+      internalID: 261180625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_298
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 82
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c026b79e654c36499d2336d1fc3c50d
+      internalID: -1661799852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_299
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 88
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c862dd80e7ee44f904571e0d045179
+      internalID: 1612036395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_300
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 89
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529672fadcc5aa4192fe722bfe613d6
+      internalID: -1679338846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_301
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 83
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d822d155e0852547a672e2f1931a114
+      internalID: -382340759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_302
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 81
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b2a564f427624dabc91b66e103985
+      internalID: -999725837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_303
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 83
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e71fc9c5a91fa5469b4ebbeffb5861a
+      internalID: -961903471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_304
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 80
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144a3ef2cfb07941b0acfc352f72e48
+      internalID: -1128180280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_305
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 82
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3918d456c54f194b9f4bab862077b02
+      internalID: -1195828210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_306
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 82
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac1e0836db1d84aae647db27e48b26
+      internalID: 1162573943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_307
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 86
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10d7654a507ac74092f759dbd20e884
+      internalID: -1227762291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_308
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 85
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458c8cd450c5d6438522a16b3b7da80
+      internalID: 869730605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_309
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 82
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15f0e0344ed6844a5a6f23ed74d64b
+      internalID: 2063591059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_310
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83588a3d98445e243a4afcc1d2d6e3ea
+      internalID: 1414028555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_311
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6d9c7807f86a44b6b6c08713581a0
+      internalID: 460950936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_312
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1a9428ad3ea94a9546124c672efe4
+      internalID: -1083865662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_313
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2856bd625e598c4690ecd4bdc61ba17
+      internalID: 215030734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trainers_314
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fced8d60131074448619af11cf5db00
+      internalID: 6100958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trainers_151: -293469531
+      Trainers_144: 2136911395
+      Trainers_99: 1751416617
+      Trainers_114: -1274206666
+      Trainers_11: 2016933050
+      Trainers_163: -283746979
+      Trainers_244: -1597878212
+      Trainers_61: -216522294
+      Trainers_172: -499412707
+      Trainers_35: -1416659518
+      Trainers_50: 1388557938
+      Trainers_203: 735679477
+      Trainers_80: 1253669224
+      Trainers_154: -55108746
+      Trainers_303: -961903471
+      Trainers_302: -999725837
+      Trainers_210: 711705013
+      Trainers_259: 547009392
+      Trainers_31: 417389056
+      Trainers_19: 704849717
+      Trainers_119: 1445139285
+      Trainers_17: -1552546618
+      Trainers_215: -275142333
+      Trainers_164: -1882710611
+      Trainers_66: 1702758852
+      Trainers_138: -849749639
+      Trainers_97: -170660919
+      Trainers_225: 1358133493
+      Trainers_116: 300828583
+      Trainers_281: -1836090005
+      Trainers_254: -892161483
+      Trainers_200: 254750148
+      Trainers_93: -1259915531
+      Trainers_51: 2106872470
+      Trainers_92: -1211342783
+      Trainers_127: -2122278319
+      Trainers_277: 74788608
+      Trainers_83: 1170787332
+      Trainers_7: -723570835
+      Trainers_249: 1920549547
+      Trainers_241: -1947893294
+      Trainers_228: 1076221691
+      Trainers_136: -1346773206
+      Trainers_149: -2128741512
+      Trainers_29: -324043221
+      Trainers_27: -1684469983
+      Trainers_95: -268019817
+      Trainers_170: -1432484647
+      Trainers_52: -1679018014
+      Trainers_208: 308358496
+      Trainers_276: -1859918585
+      Trainers_289: -1804676490
+      Trainers_56: -1638804554
+      Trainers_161: 1581144769
+      Trainers_81: -1451309037
+      Trainers_58: -1066766125
+      Trainers_305: -1195828210
+      Trainers_268: 1759697044
+      Trainers_118: 1080986806
+      Trainers_300: -1679338846
+      Trainers_231: -921910157
+      Trainers_39: 554597877
+      Trainers_280: 419377905
+      Trainers_207: -893212984
+      Trainers_296: -1798993170
+      Trainers_129: -1834547113
+      Trainers_177: -1097766373
+      Trainers_112: -822732563
+      Trainers_24: 2052837422
+      Trainers_193: 998561668
+      Trainers_155: 1412036607
+      Trainers_273: 1520673580
+      Trainers_294: -1122243355
+      Trainers_26: -768800036
+      Trainers_15: 1226463854
+      Trainers_274: -456408920
+      Trainers_14: 1362716234
+      Trainers_150: -64893778
+      Trainers_3: 1410232086
+      Trainers_238: -1202052381
+      Trainers_191: 50174269
+      Trainers_209: 1649257424
+      Trainers_96: 1529792008
+      Trainers_198: 1419531611
+      Trainers_171: -1793393379
+      Trainers_251: -736401403
+      Trainers_236: 1996228168
+      Trainers_279: 926416393
+      Trainers_314: 6100958
+      Trainers_67: 1321603883
+      Trainers_25: 359222063
+      Trainers_68: 609679416
+      Trainers_2: -1471171573
+      Trainers_42: 683319525
+      Trainers_94: -2030229813
+      Trainers_160: -150562529
+      Trainers_246: -1992322982
+      Trainers_204: 458713568
+      Trainers_222: 1862684485
+      Trainers_48: 1060356877
+      Trainers_158: -1955739029
+      Trainers_218: 236923307
+      Trainers_265: -259270213
+      Trainers_258: 936463307
+      Trainers_284: 1634360790
+      Trainers_252: 1898715013
+      Trainers_181: 2089235304
+      Trainers_117: -1928744024
+      Trainers_89: -711572954
+      Trainers_213: 1237087681
+      Trainers_237: -633716483
+      Trainers_5: 2029720402
+      Trainers_59: -1428237610
+      Trainers_134: 1372651067
+      Trainers_286: 21478487
+      Trainers_142: -369016814
+      Trainers_184: 1055137409
+      Trainers_219: -1245840412
+      Trainers_292: -393455263
+      Trainers_23: -1765915078
+      Trainers_98: -1852197853
+      Trainers_86: 880471192
+      Trainers_32: 863287720
+      Trainers_308: 869730605
+      Trainers_230: 1972861041
+      Trainers_113: -1973750749
+      Trainers_130: -1280810602
+      Trainers_297: 261180625
+      Trainers_175: -1137986979
+      Trainers_146: -2096317651
+      Trainers_278: -1196370475
+      Trainers_65: -803271669
+      Trainers_16: 696148697
+      Trainers_132: 1941528850
+      Trainers_174: -1377234537
+      Trainers_287: 2140663536
+      Trainers_120: 874960537
+      Trainers_74: 2074490891
+      Trainers_53: -418579040
+      Trainers_4: -191613007
+      Trainers_159: 717760431
+      Trainers_165: 1884767617
+      Trainers_73: 2050988366
+      Trainers_22: 63757024
+      Trainers_180: -1738701815
+      Trainers_262: 1490915967
+      Trainers_283: 274566744
+      Trainers_28: 2126807220
+      Trainers_30: 1033913570
+      Trainers_269: -789558280
+      Trainers_128: -316243752
+      Trainers_312: -1083865662
+      Trainers_216: 180843643
+      Trainers_242: 808456126
+      Trainers_187: -2037381171
+      Trainers_82: -2073988513
+      Trainers_217: -509986200
+      Trainers_232: 2130768213
+      Trainers_226: -148685522
+      Trainers_285: -1921496939
+      Trainers_295: 1129533469
+      Trainers_229: -1044900605
+      Trainers_310: 1414028555
+      Trainers_143: -983892207
+      Trainers_122: 1547360936
+      Trainers_309: 2063591059
+      Trainers_263: 775439289
+      Trainers_6: -200201971
+      Trainers_260: -1466370046
+      Trainers_87: -1501256661
+      Trainers_70: 298596288
+      Trainers_47: -796169416
+      Trainers_21: -530977115
+      Trainers_10: 1399360994
+      Trainers_205: 1278181680
+      Trainers_49: -1048706661
+      Trainers_121: 1542393754
+      Trainers_45: -284993460
+      Trainers_220: -753769764
+      Trainers_77: 1445488267
+      Trainers_126: 864281203
+      Trainers_176: 1209379107
+      Trainers_162: 1394597616
+      Trainers_168: 874489679
+      Trainers_40: 460726144
+      Trainers_235: -1973138206
+      Trainers_282: -664122743
+      Trainers_271: -148025125
+      Trainers_108: -1526503357
+      Trainers_290: 1011295806
+      Trainers_194: -1898668319
+      Trainers_255: 1652542714
+      Trainers_131: -268342387
+      Trainers_43: 1623315022
+      Trainers_125: 823021100
+      Trainers_18: -460636028
+      Trainers_270: 762384542
+      Trainers_123: -1098016652
+      Trainers_79: 672706985
+      Trainers_33: -888728475
+      Trainers_201: 1315426533
+      Trainers_137: -1509943477
+      Trainers_91: -1465174676
+      Trainers_298: -1661799852
+      Trainers_267: 795875437
+      Trainers_102: 1844181086
+      Trainers_301: -382340759
+      Trainers_37: -31252634
+      Trainers_178: -269880140
+      Trainers_101: 273602767
+      Trainers_106: -985290192
+      Trainers_247: 652873967
+      Trainers_293: 302434505
+      Trainers_221: 2007513391
+      Trainers_75: 1229422853
+      Trainers_153: 1330836355
+      Trainers_179: -187529251
+      Trainers_169: 710178577
+      Trainers_306: 1162573943
+      Trainers_299: 1612036395
+      Trainers_88: -1155047092
+      Trainers_167: -781468755
+      Trainers_227: 527140957
+      Trainers_183: 693095423
+      Trainers_84: 1379774989
+      Trainers_12: 555220865
+      Trainers_248: 71002872
+      Trainers_78: -1891381087
+      Trainers_253: 2012401604
+      Trainers_166: 1226611441
+      Trainers_100: 104258477
+      Trainers_240: -1615087229
+      Trainers_157: -443563279
+      Trainers_85: -719317594
+      Trainers_182: 388853177
+      Trainers_20: 1732278084
+      Trainers_264: 2133570207
+      Trainers_13: -1997479261
+      Trainers_288: -1317890517
+      Trainers_245: 685359976
+      Trainers_261: 285789304
+      Trainers_135: -1418205275
+      Trainers_188: -197783972
+      Trainers_46: 1923661528
+      Trainers_54: 1066392718
+      Trainers_38: 2114127137
+      Trainers_103: -151783744
+      Trainers_223: -2086132116
+      Trainers_156: 1179017998
+      Trainers_147: -1897084828
+      Trainers_133: -2068936108
+      Trainers_105: 1726867527
+      Trainers_140: -1336427919
+      Trainers_110: 1931734213
+      Trainers_55: 1964305191
+      Trainers_1: -1866802696
+      Trainers_275: 1753228214
+      Trainers_234: -1582665353
+      Trainers_76: -1020591151
+      Trainers_185: -1166664570
+      Trainers_41: -586966522
+      Trainers_115: 2025206783
+      Trainers_111: 1750492199
+      Trainers_190: 227167274
+      Trainers_199: 1968467413
+      Trainers_34: -273791916
+      Trainers_307: -1227762291
+      Trainers_63: -1164510459
+      Trainers_148: 1831567558
+      Trainers_266: 1573804183
+      Trainers_44: 671452781
+      Trainers_72: -2075706550
+      Trainers_291: 1328597867
+      Trainers_104: 680612897
+      Trainers_311: 460950936
+      Trainers_256: 636117386
+      Trainers_107: 2055232375
+      Trainers_212: -1060620475
+      Trainers_36: -105555342
+      Trainers_206: 1150419836
+      Trainers_173: -2097571060
+      Trainers_304: -1128180280
+      Trainers_64: -1782661912
+      Trainers_313: 215030734
+      Trainers_69: 735436694
+      Trainers_62: 301057392
+      Trainers_124: -1649869297
+      Trainers_145: -1254059644
+      Trainers_195: 2013775245
+      Trainers_90: -1082663462
+      Trainers_192: -1295258751
+      Trainers_141: -1998894173
+      Trainers_109: -1449765035
+      Trainers_239: 780812287
+      Trainers_233: 416906290
+      Trainers_243: -342499467
+      Trainers_71: 1519704363
+      Trainers_214: -659098240
+      Trainers_9: -516631297
+      Trainers_189: -154932907
+      Trainers_202: 114434205
+      Trainers_57: 687793989
+      Trainers_224: 580555713
+      Trainers_8: 1378074397
+      Trainers_197: 2106889943
+      Trainers_250: -992917845
+      Trainers_211: -155319029
+      Trainers_196: 1149201749
+      Trainers_0: 153932976
+      Trainers_60: 1015351108
+      Trainers_257: 682337930
+      Trainers_186: -780775756
+      Trainers_139: 114980098
+      Trainers_272: -1698718920
+      Trainers_152: -1243905352
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
